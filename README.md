@@ -1,2 +1,3 @@
 # ImageClassification
-Simple_Image_Classification_by_using_CNN
+Simple Image Classification by using CNN
+This project is only for me to know more about how CNN works
